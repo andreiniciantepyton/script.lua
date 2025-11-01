@@ -1,5 +1,3 @@
-# script.lua
-
 --[[
 
 	AirHub by Exunys © CC0 1.0 Universal (2023)
