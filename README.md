@@ -1,4 +1,5 @@
 # script.lua
+
 --[[
 
 	AirHub by Exunys © CC0 1.0 Universal (2023)
@@ -142,9 +143,6 @@ local CrosshairSettings_CenterDot = CrosshairTab:CreateSection({
 
 local FunctionsSection = FunctionsTab:CreateSection({
 	Name = "Functions"
-	Name = "speed"
-	Name = "Noclip"
-	Name = "InfJump"
 })
 
 --// Aimbot Values
